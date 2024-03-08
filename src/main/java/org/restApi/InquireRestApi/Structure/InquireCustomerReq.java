@@ -3,9 +3,9 @@ package org.restApi.InquireRestApi.Structure;
 import lombok.Data;
 
 @Data
-public class InquireStudentReq {
+public class InquireCustomerReq {
 
-    private String studentId;
+    private String customerId;
 
 
 }
